@@ -6,7 +6,7 @@ I build automation tools that save accounting professionals 10+ hours per week.
 
 ## 🏢 Background
 
-- 📊 Owner of **Brian Wittig & Associates, LLC** (bookkeeping firm, 22+ clients)
+- 📊 Owner of **Brian R. Wittig & Associates LLC** (bookkeeping firm, 22+ clients)
 - 💻 Former **AT&T Software Engineer** (32 years)
 - 🎓 B.A. Mathematics, Rutgers University
 
